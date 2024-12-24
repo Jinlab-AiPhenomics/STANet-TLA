@@ -31,7 +31,11 @@ Senior Editor of Plant Phenomics
 Email: jschaon@njau.edu.cn; Tel: +86 025 8439-6112
 
 Address: No. 666, Binjiang Avenue, Jiangbei New District, Nanjing 210095, China
-## Installation
+
+##The flow chart of STANet-TLA
+![image](https://github.com/Jinlab-AiPhenomics/STANet-TLA/main/results/STANet-TLA_results.png)
+
+## Installation of SATNet
 
 For installation instructions, please refer to [install.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/install.md).
 
