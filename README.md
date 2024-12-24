@@ -39,21 +39,21 @@ For installation instructions, please refer to [install.md](https://github.com/J
 
 ### Dataset Construction
 
-Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/dataset.md) for details on dataset construction.
+Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/dataset.md) for details on dataset construction.
 
-> 📦 A toy dataset has been constructed for testing. You can [click here](https://pan.quark.cn/s/d105eba9bf16) to download it.
+> 📦 A toy dataset has been constructed for testing. You can [click here](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/dataset.md) to download it.
 
 ### Training and Testing
 
-For training and testing procedures, please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/train%20and%20test.md).
+For training and testing procedures, please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/train%20and%20test.md).
 
 ### Visualization
 
-For visualization techniques, please refer to [visualization.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/visualization.md).
+For visualization techniques, please refer to [visualization.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/visualization.md).
 
 ## Public Datasets
 
-This study has constructed four datasets dedicated to various aspects of network development, robustness verification, transferability assessment, and phenotypic trait extraction. Some datasets are open-source; you can download them using the links below:
+This study has constructed four datasets dedicated to various aspects of network development, robustness verification, across-year transferability assessment, across-location transferability assessment, and across-data type transferability assessment. Some datasets are open-source; you can download them using the links below:
 
 1. **SoyUAV2022SY** (size: ~2.40 GB)
    - Part1: Uploading
