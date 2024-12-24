@@ -32,8 +32,8 @@ Email: jschaon@njau.edu.cn; Tel: +86 025 8439-6112
 
 Address: No. 666, Binjiang Avenue, Jiangbei New District, Nanjing 210095, China
 
-##The flow chart of STANet-TLA
-![image](https://github.com/Jinlab-AiPhenomics/STANet-TLA/main/results/STANet-TLA_results.png)
+## The flow chart of STANet-TLA
+![image](results/STANet-TLA_results.png).
 
 ## Installation of SATNet
 
