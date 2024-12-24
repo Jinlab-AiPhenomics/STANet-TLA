@@ -1,6 +1,4 @@
-# STANet-TLA
-
-leveraging deep learning and prior knowledge for large-scale soybean breeding plot segmentation and high-yielding variety screening from UAV time-series data
+# STANet-TLA: leveraging deep learning and prior knowledge for large-scale soybean breeding plot segmentation and high-yielding variety screening from UAV time-series data
 
 ## Overview
 
