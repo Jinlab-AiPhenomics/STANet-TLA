@@ -33,7 +33,7 @@ Email: jschaon@njau.edu.cn; Tel: +86 025 8439-6112
 Address: No. 666, Binjiang Avenue, Jiangbei New District, Nanjing 210095, China
 ## Installation
 
-For installation instructions, please refer to [install.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/install.md).
+For installation instructions, please refer to [install.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/install.md).
 
 ## Usage
 
