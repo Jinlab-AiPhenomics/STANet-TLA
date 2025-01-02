@@ -1,1 +1,2 @@
-https://www.plantplus.cn/cn/dataset/69BB424216098608
+## Download path of SoyUAV dataset
+https://www.plantplus.cn/doi/10.12282/plantdata.1656
