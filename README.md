@@ -45,8 +45,6 @@ For installation instructions, please refer to [install.md](https://github.com/J
 
 Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/dataset.md) for details on dataset construction.
 
-> 📦 A toy dataset has been constructed for testing. You can [click here](https://www.plantplus.cn/doi/10.12282/plantdata.1656)) to download it.
-
 ### Training and Testing
 
 For training and testing procedures, please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/train%20and%20test.md).
@@ -57,16 +55,17 @@ For visualization techniques, please refer to [visualization.md](https://github.
 
 ## Public Datasets
 
-This study has constructed four datasets dedicated to various aspects of network development, robustness verification, across-year transferability assessment, across-location transferability assessment, and across-data type transferability assessment. Some datasets are open-source; you can download them using the links below:
+This study has constructed four datasets dedicated to various aspects of network development, robustness verification, across-year transferability assessment, across-location transferability assessment, and across-data type transferability assessment. Some datasets are open-source; you can download them using the links below [click here](https://www.plantplus.cn/doi/10.12282/plantdata.1656)):
 
 1. **SoyUAV2022SY** (size: ~2.40 GB)
-   - Part1: Uploading
+   - Part1: SoyUAV2022SYa: 8814 samples, 17 periods,used for model training and validation.
+   - Part2: SoyUAV2022SYb: 2934 samples, 17 periods, used for model testing.
 2. **SoyUAV2023SY** (size: ~0.53 GB)
-   - Part1: Uploading
+   - Part1: 2724 samples, 22 periods, used for cross-year transferability analysis.
 3. **SoyUAV2022NJ** (size: ~0.73 GB)
-   - Part1: Uploading
+   - Part1: 849 samples, 8 periods, used for cross-location transferability analysis.
 4. **SoyUAV2022SYchm** (size: ~2.17 GB)
-   - Part1: Uploading
+   - Part1: 5998 samples, 17 periods, used for cross-data type transferability analysis.
 
 ## License
 
