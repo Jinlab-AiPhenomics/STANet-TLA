@@ -55,7 +55,7 @@ For visualization techniques, please refer to [visualization.md](https://github.
 
 ## Public Datasets
 
-This study has constructed four datasets dedicated to various aspects of network development, robustness verification, across-year transferability assessment, across-location transferability assessment, and across-data type transferability assessment. Some datasets are open-source; you can download them using the links below [click here](https://www.plantplus.cn/doi/10.12282/plantdata.1656)):
+This study has constructed four datasets dedicated to various aspects of network development, robustness verification, across-year transferability assessment, across-location transferability assessment, and across-data type transferability assessment. Some datasets are open-source; you can download them using the links below [click here](https://www.plantplus.cn/doi/10.12282/plantdata.1656):
 
 1. **SoyUAV2022SY** (size: ~2.40 GB)
    - Part1: SoyUAV2022SYa: 8814 samples, 17 periods,used for model training and validation.
