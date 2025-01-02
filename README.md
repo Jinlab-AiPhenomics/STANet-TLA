@@ -45,7 +45,7 @@ For installation instructions, please refer to [install.md](https://github.com/J
 
 Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/dataset.md) for details on dataset construction.
 
-> 📦 A toy dataset has been constructed for testing. You can [click here](https://github.com/Jinlab-AiPhenomics/STANet-TLA/tree/main/docs/dataset.md) to download it.
+> 📦 A toy dataset has been constructed for testing. You can [click here](https://www.plantplus.cn/doi/10.12282/plantdata.1656)) to download it.
 
 ### Training and Testing
 
