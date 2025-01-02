@@ -1,5 +1,5 @@
 ## Methods for constructing time-series data. 
-![image](./results/Plot-instance-segmentation.png)
+![image](../results/Plot-instance-segmentation.png)
 
 
 
