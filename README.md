@@ -4,7 +4,7 @@ leveraging deep learning and prior knowledge for large-scale soybean breeding pl
 
 ## Overview
 
-Shaochen Li<sup>1</sup>, Yinmeng Song<sup>1</sup>, Ke Wang<sup>1</sup>, Yiqiang Liu<sup>1,2</sup>, Junhong Xian<sup>1</sup>, Hongshan Wu<sup>1</sup>, Xintong Zhang<sup>1</sup>, Yanjun Su<sup>3</sup>, Jin Wu<sup>4</sup>, Qinghua Guo<sup>5</sup>, Shan Xu<sup>1</sup>, Dong Jiang<sup>1,2</sup>, Jiao Wang<sup>1</sup>, Jinming Zhao<sup>1</sup>, Xianzhong Feng<sup></sup>, Lijuan Qiu<sup>7</sup>, Yanfeng Ding<sup>1,2</sup>, Shichao Jin<sup>1,2*</sup>
+Shaochen Li<sup>1</sup>, Yinmeng Song<sup>1</sup>, Ke Wang<sup>1</sup>, Yiqiang Liu<sup>1,2</sup>, Junhong Xian<sup>1</sup>, Hongshan Wu<sup>1</sup>, Xintong Zhang<sup>1</sup>, Yanjun Su<sup>3</sup>, Jin Wu<sup>4,8</sup>, Qinghua Guo<sup>5</sup>, Shan Xu<sup>1</sup>, Dong Jiang<sup>1,2</sup>, Jiao Wang<sup>1</sup>, Jinming Zhao<sup>1</sup>, Xianzhong Feng<sup></sup>, Lijuan Qiu<sup>7</sup>, Yanfeng Ding<sup>1,2</sup>, Shichao Jin<sup>1,2*</sup>
 
 1 Engineering Research Center of Plant Phenotyping, Ministry of Education, Academy for Advanced Interdisciplinary Studies, Collaborative Innovation Centre for Modern Crop Production co-sponsored by Province and Ministry, State Key Laboratory of Crop Genetics and Germplasm Enhancement, Jiangsu Key Laboratory of Soybean Biotechnology and Intelligent Breeding, Zhongshan Biological Breeding Laboratory，Nanjing Agricultural University, Nanjing 210095, China.
 
@@ -12,13 +12,15 @@ Shaochen Li<sup>1</sup>, Yinmeng Song<sup>1</sup>, Ke Wang<sup>1</sup>, Yiqiang 
 
 3 State Key Laboratory of Vegetation and Environmental Change, Institute of Botany, Chinese Academy of Sciences, Beijing 100093, China
 
-4 Division for Ecology and Biodiversity, School of Biological Sciences, The University of Hong Kong, Pokfulam Road, Hong Kong, China
+4 School of Biological Sciences and Institute for Climate and Carbon Neutrality, University of Hong Kong, Pokfulam, Hong Kong, China
 
 5 Institute of Remote Sensing and Geographic Information System, School of Earth and Space Sciences, Peking University, Beijing 100871, China
 
 6 Key Laboratory of Soybean Molecular Design Breeding, State Key Laboratory of Black Soils Conservation and Utilization, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China.
 
 7 The National Key Facility for Crop Gene Resources and Genetic Improvement (NFCRI)/Key Laboratory of Crop Gene Resource and Germplasm Enhancement (MOA)/Key Laboratory of Soybean Biology (Beijing) (MOA), Institute of Crop Science, Chinese Academy of Agricultural Sciences, Beijing 100081, China
+
+8 State Key Laboratory of Agrobiotechnology (CUHK), Shatin, Hong Kong, China
 
 *Corresponding author
 
